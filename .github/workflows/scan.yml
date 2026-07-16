@@ -1,0 +1,40 @@
+name: scan-boamp
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scan-boamp
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recuperer le depot
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Scanner le BOAMP
+        run: python scan_boamp.py opportunites-data.json
+
+      - name: Committer si changement
+        run: |
+          git config user.name "boamp-bot"
+          git config user.email "bot@basecore.fr"
+          git add opportunites-data.json
+          if git diff --staged --quiet; then
+            echo "Aucun changement."
+          else
+            git commit -m "chore: maj consultations BOAMP"
+            git push
+          fi
