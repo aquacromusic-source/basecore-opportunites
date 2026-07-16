@@ -1,0 +1,20 @@
+{
+  "26-68218": [
+    {"lot": 1, "designation": "Petits formats (invitations, flyers)", "format": "A5", "grammage": 135, "pages": 2, "quantite": 20000},
+    {"lot": 2, "designation": "Affiches A3 a A0", "format": "A2", "grammage": 170, "pages": 1, "quantite": 3000},
+    {"lot": 3, "designation": "Magazines et livrets", "format": "A4", "grammage": 135, "pages": 24, "quantite": 8000},
+    {"lot": 4, "designation": "Magnets", "format": "10x15", "grammage": 800, "pages": 1, "quantite": 5000},
+    {"lot": 5, "designation": "Akilux, dibond, PVC", "format": "A2", "grammage": 3000, "pages": 1, "quantite": 500},
+    {"lot": 6, "designation": "PLV (publicite sur lieu de vente)", "format": "A1", "grammage": 350, "pages": 1, "quantite": 800},
+    {"lot": 7, "designation": "Billetterie", "format": "10x15", "grammage": 300, "pages": 1, "quantite": 30000},
+    {"lot": 8, "designation": "Grandes affiches", "format": "A0", "grammage": 150, "pages": 1, "quantite": 1500},
+    {"lot": 9, "designation": "Banderoles", "format": "A0", "grammage": 500, "pages": 1, "quantite": 300},
+    {"lot": 10, "designation": "Enveloppes imprimees", "format": "DL", "grammage": 90, "pages": 1, "quantite": 40000}
+  ],
+  "26-62303": [
+    {"lot": 1, "designation": "Flyers programme culturel", "format": "A5", "grammage": 135, "pages": 2, "quantite": 20000},
+    {"lot": 2, "designation": "Affiches evenementielles", "format": "A2", "grammage": 170, "pages": 1, "quantite": 2000},
+    {"lot": 3, "designation": "Brochures institutionnelles 16 p.", "format": "A4", "grammage": 135, "pages": 16, "quantite": 5000},
+    {"lot": 4, "designation": "Depliants 3 volets", "format": "DL", "grammage": 135, "pages": 6, "quantite": 10000}
+  ]
+}
