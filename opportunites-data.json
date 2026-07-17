@@ -1,6 +1,6 @@
 {
- "maj": "2026-07-16T18:57:55.330642Z",
- "count": 54,
+ "maj": "2026-07-17T01:53:31.878057Z",
+ "count": 55,
  "opportunites": [
   {
    "id": "OPE-2606-A",
@@ -541,6 +541,16 @@
    "nb_lots": 1,
    "source_lots": "detail",
    "payload": "eyJyZWYiOiAiMjYtNTgzOTgiLCAiYWNoZXRldXIiOiAiTWV0cm9wb2xlIFJvdWVuIE5vcm1hbmRpZSIsICJvYmpldCI6ICJTZXJ2aWNlIGQnaW1wcmVzc2lvbiAsIGRlIGZvdXJuaXR1cmUgZXQgZGUgZ2VzdGlvbiBkZXMgdGl0cmVzIHJlc3RhdXJhbnRzIHBvdXIgbGUgcGVyc29ubmVsIGRlIGxhIE3DqXRyb3BvbGUgUm91ZW4gTm9ybWFuZGllIiwgImRhdGVsaW1pdGUiOiAiMjAyNi0wNy0yNyIsICJsb3RzIjogW3sibG90IjogMSwgImRlc2lnbmF0aW9uIjogIlNlcnZpY2UgZCdpbXByZXNzaW9uICwgZGUgZm91cm5pdHVyZSBldCBkZSBnZXN0aW9uIGRlcyB0aXRyZXMgcmVzdGF1cmFudHMgcG91ciBsZSBwZXJzb25uZSIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9XX0"
+  },
+  {
+   "id": "OPE-2606-C",
+   "label": "Consultation - signaletique & affichage",
+   "categorie": "Signaletique",
+   "region": "France",
+   "echeance": "2026-07-27",
+   "nb_lots": 1,
+   "source_lots": "detail",
+   "payload": "eyJyZWYiOiAiMjYtNjMyMDAiLCAiYWNoZXRldXIiOiAiRMOpcGFydGVtZW50IGRlIFZhdWNsdXNlIiwgIm9iamV0IjogIkZvdXJuaXR1cmUgZXQgbGl2cmFpc29uIGRlIHRpdHJlcyByZXN0YXVyYW50IGV0IGRlIGNow6hxdWVzIGNhZGVhdXggYXUgZm9ybWF0IHBhcGllciBldC8gb3UgYXUgZm9ybWF0IGNhcnRlIC0gTG90IG7CsDMgOiBGb3Vybml0dXJlIGV0IGxpdnJhaXNvbiBkZSBjaMOocXVlcyBjYWRlYXV4IG11bHRpLWVuc2VpZ25lcyBhdSBmb3JtYXQgcGFwaWVyIiwgImRhdGVsaW1pdGUiOiAiMjAyNi0wNy0yNyIsICJsb3RzIjogW3sibG90IjogMSwgImRlc2lnbmF0aW9uIjogIkZvdXJuaXR1cmUgZXQgbGl2cmFpc29uIGRlIGNow6hxdWVzIGNhZGVhdXggbXVsdGktZW5zZWlnbmVzIGF1IGZvcm1hdCBwYXBpZXIiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfV19"
   }
  ]
 }
