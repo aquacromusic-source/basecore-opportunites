@@ -1,6 +1,6 @@
 {
- "maj": "2026-07-23T13:26:51.758281Z",
- "count": 50,
+ "maj": "2026-07-23T19:01:14.685339Z",
+ "count": 52,
  "opportunites": [
   {
    "id": "OPE-2606-A",
@@ -501,6 +501,26 @@
    "nb_lots": 1,
    "source_lots": "detail",
    "payload": "eyJyZWYiOiAiMjYtNjY1NTYiLCAiYWNoZXRldXIiOiAiQ0EgTEFOTklPTi1UUkVHT1IgQ09NTVVOQVVURSIsICJvYmpldCI6ICJUcmF2YXV4IGQnaW1wcmVzc2lvbiBldCBkZSBmYcOnb25uYWdlIGRlIHN1cHBvcnRzIGRlIGNvbW11bmljYXRpb24iLCAiZGF0ZWxpbWl0ZSI6ICIyMDI2LTA4LTAzIiwgImxvdHMiOiBbeyJsb3QiOiAxLCAiZGVzaWduYXRpb24iOiAiVHJhdmF1eCBkJ2ltcHJlc3Npb24gZXQgZGUgZmHDp29ubmFnZSBkZSBzdXBwb3J0cyBkZSBjb21tdW5pY2F0aW9uIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH1dfQ"
+  },
+  {
+   "id": "OPE-2607-Y",
+   "label": "Consultation - supports de communication",
+   "categorie": "Communication",
+   "region": "France",
+   "echeance": "2026-08-04",
+   "nb_lots": 1,
+   "source_lots": "detail",
+   "payload": "eyJyZWYiOiAiMjYtNjYwNTciLCAiYWNoZXRldXIiOiAiUsOpZ2lvbiBSw6l1bmlvbiIsICJvYmpldCI6ICJQUkkgSE9OT1JFIDIwMjYgLSBJTVBSRVNTSU9OIERFIFJFQ1VFSUxTIiwgImRhdGVsaW1pdGUiOiAiMjAyNi0wOC0wNCIsICJsb3RzIjogW3sibG90IjogMSwgImRlc2lnbmF0aW9uIjogIlBSSSBIT05PUkUgMjAyNiAtIElNUFJFU1NJT04gREUgUkVDVUVJTFMiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfV19"
+  },
+  {
+   "id": "OPE-2606-Z",
+   "label": "Consultation - supports de communication",
+   "categorie": "Communication",
+   "region": "France",
+   "echeance": "2026-08-04",
+   "nb_lots": 1,
+   "source_lots": "detail",
+   "payload": "eyJyZWYiOiAiMjYtNjIwMDYiLCAiYWNoZXRldXIiOiAiQnVyZWF1IGRlIFJlY2hlcmNoZSBlbiBHw6lvbG9naWUgTWluacOocmUgKEJSR00pIiwgIm9iamV0IjogIkFDSEFUIEVUIExJVlJBSVNPTiBERSBGT1VSTklUVVJFUyBERSBCVVJFQVUgRVQgREUgUEFQSUVSUyBEJ0lNUFJFU1NJT04gUE9VUiBMRVMgU0lURVMgRU4gTUVUUk9QT0xFIERVIEJSR00iLCAiZGF0ZWxpbWl0ZSI6ICIyMDI2LTA4LTA0IiwgImxvdHMiOiBbeyJsb3QiOiAxLCAiZGVzaWduYXRpb24iOiAiQUNIQVQgRVQgTElWUkFJU09OIERFIEZPVVJOSVRVUkVTIERFIEJVUkVBVSBFVCBERSBQQVBJRVJTIEQnSU1QUkVTU0lPTiBQT1VSIExFUyBTSVRFUyBFTiBNIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH1dfQ"
   }
  ]
 }
