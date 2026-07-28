@@ -1,6 +1,6 @@
 {
- "maj": "2026-07-28T13:43:08.750416Z",
- "count": 48,
+ "maj": "2026-07-28T19:09:59.479877Z",
+ "count": 49,
  "opportunites": [
   {
    "id": "OPE-2606-A",
@@ -481,6 +481,16 @@
    "nb_lots": 1,
    "source_lots": "generique",
    "payload": "eyJyZWYiOiAiMjYtNjk4MDQiLCAiYWNoZXRldXIiOiAiTWFpcmllIGQnT3JseSIsICJvYmpldCI6ICJGb3Vybml0dXJlIGRlIHBhcGllcnMgKGJ1cmVhdXRpcXVlIGV0IGltcHJpbWVyaWUpIGV0IGQnZW52ZWxvcHBlcyBpbXByaW3DqWVzIiwgImRhdGVsaW1pdGUiOiAiMjAyNi0wOC0xNCIsICJsb3RzIjogW3sibG90IjogMSwgImRlc2lnbmF0aW9uIjogIkZvdXJuaXR1cmUgZGUgcGFwaWVycyAoYnVyZWF1dGlxdWUgZXQgaW1wcmltZXJpZSkgZXQgZCdlbnZlbG9wcGVzIGltcHJpbcOpZXMiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfV19"
+  },
+  {
+   "id": "OPE-2607-W",
+   "label": "Consultation - edition periodique",
+   "categorie": "Edition",
+   "region": "France",
+   "echeance": "2026-08-17",
+   "nb_lots": 1,
+   "source_lots": "detail",
+   "payload": "eyJyZWYiOiAiMjYtNzA3OTUiLCAiYWNoZXRldXIiOiAiUkVTQUgiLCAib2JqZXQiOiAiRk9VUk5JVFVSRSBEJ0FCT05ORU1FTlRTIERFIEpPVVJOQVVYLCBSRVZVRVMgRVQgUEVSSU9ESVFVRVMgRCdJTkZPUk1BVElPTiBHRU5FUkFMRSBPVSBTUEVDSUFMSVNFRSwgRlJBTsOHQUlTIEVUIEVUUkFOR0VSUyIsICJkYXRlbGltaXRlIjogIjIwMjYtMDgtMTciLCAibG90cyI6IFt7ImxvdCI6IDEsICJkZXNpZ25hdGlvbiI6ICJGT1VSTklUVVJFIETigJlBQk9OTkVNRU5UUyBERSBKT1VSTkFVWCwgUkVWVUVTIEVUIFBFUklPRElRVUVTIETigJlJTkZPUk1BVElPTiBHRU5FUkFMRSBPVSBTUEVDIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMTYsICJxdWFudGl0ZSI6IDEwMDB9XX0"
   }
  ]
 }
