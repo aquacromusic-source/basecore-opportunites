@@ -1,6 +1,6 @@
 {
- "maj": "2026-07-30T01:41:44.838582Z",
- "count": 49,
+ "maj": "2026-07-30T08:09:26.620366Z",
+ "count": 50,
  "opportunites": [
   {
    "id": "OPE-2606-A",
@@ -444,6 +444,16 @@
   },
   {
    "id": "OPE-2607-S",
+   "label": "Consultation - objets & textiles personnalises",
+   "categorie": "Objets & textiles",
+   "region": "France",
+   "echeance": "2026-08-13",
+   "nb_lots": 1,
+   "source_lots": "detail",
+   "payload": "eyJyZWYiOiAiMjYtNzU2NDEiLCAiYWNoZXRldXIiOiAiQ1BBTSBERVMgQUxQRVMgTUFSSVRJTUVTIiwgIm9iamV0IjogIkZPVVJOSVRVUkUgREUgR09PRElFUyIsICJkYXRlbGltaXRlIjogIjIwMjYtMDgtMTMiLCAibG90cyI6IFt7ImxvdCI6IDEsICJkZXNpZ25hdGlvbiI6ICJGb3Vybml0dXJlIGRlIGdvb2RpZXMiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfV19"
+  },
+  {
+   "id": "OPE-2607-T",
    "label": "Consultation - supports de communication",
    "categorie": "Communication",
    "region": "France",
@@ -453,7 +463,7 @@
    "payload": "eyJyZWYiOiAiMjYtNjc5MTEiLCAiYWNoZXRldXIiOiAiQ05PTUsiLCAib2JqZXQiOiAiTWFyY2jDqSByZWxhdGlmIMOgIGwnaW1wcmVzc2lvbiBldCBsYSBsaXZyYWlzb24gZGUgZG9jdW1lbnRzIGRlIGNvbW11bmljYXRpb24iLCAiZGF0ZWxpbWl0ZSI6ICIyMDI2LTA4LTEzIiwgImxvdHMiOiBbeyJsb3QiOiAxLCAiZGVzaWduYXRpb24iOiAiTWFyY2jDqSByZWxhdGlmIMOgIGwnaW1wcmVzc2lvbiBldCBsYSBsaXZyYWlzb24gZGUgZG9jdW1lbnRzIGRlIGNvbW11bmljYXRpb24iLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfV19"
   },
   {
-   "id": "OPE-2607-T",
+   "id": "OPE-2607-U",
    "label": "Consultation - supports de communication",
    "categorie": "Communication",
    "region": "France",
@@ -463,7 +473,7 @@
    "payload": "eyJyZWYiOiAiMjYtNjk4MDQiLCAiYWNoZXRldXIiOiAiTWFpcmllIGQnT3JseSIsICJvYmpldCI6ICJGb3Vybml0dXJlIGRlIHBhcGllcnMgKGJ1cmVhdXRpcXVlIGV0IGltcHJpbWVyaWUpIGV0IGQnZW52ZWxvcHBlcyBpbXByaW3DqWVzIiwgImRhdGVsaW1pdGUiOiAiMjAyNi0wOC0xNCIsICJsb3RzIjogW3sibG90IjogMSwgImRlc2lnbmF0aW9uIjogIkZvdXJuaXR1cmUgZGUgcGFwaWVycyAoYnVyZWF1dGlxdWUgZXQgaW1wcmltZXJpZSkgZXQgZCdlbnZlbG9wcGVzIGltcHJpbcOpZXMiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfV19"
   },
   {
-   "id": "OPE-2607-U",
+   "id": "OPE-2607-V",
    "label": "Consultation - edition periodique",
    "categorie": "Edition",
    "region": "France",
@@ -473,7 +483,7 @@
    "payload": "eyJyZWYiOiAiMjYtNzA3OTUiLCAiYWNoZXRldXIiOiAiUkVTQUgiLCAib2JqZXQiOiAiRk9VUk5JVFVSRSBEJ0FCT05ORU1FTlRTIERFIEpPVVJOQVVYLCBSRVZVRVMgRVQgUEVSSU9ESVFVRVMgRCdJTkZPUk1BVElPTiBHRU5FUkFMRSBPVSBTUEVDSUFMSVNFRSwgRlJBTsOHQUlTIEVUIEVUUkFOR0VSUyIsICJkYXRlbGltaXRlIjogIjIwMjYtMDgtMTciLCAibG90cyI6IFt7ImxvdCI6IDEsICJkZXNpZ25hdGlvbiI6ICJGT1VSTklUVVJFIETigJlBQk9OTkVNRU5UUyBERSBKT1VSTkFVWCwgUkVWVUVTIEVUIFBFUklPRElRVUVTIETigJlJTkZPUk1BVElPTiBHRU5FUkFMRSBPVSBTUEVDIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMTYsICJxdWFudGl0ZSI6IDEwMDB9XX0"
   },
   {
-   "id": "OPE-2607-V",
+   "id": "OPE-2607-W",
    "label": "Consultation - objets & textiles personnalises",
    "categorie": "Objets & textiles",
    "region": "France",
@@ -483,7 +493,7 @@
    "payload": "eyJyZWYiOiAiMjYtNjc5OTMiLCAiYWNoZXRldXIiOiAiTWFpcmllIGRlIFNhbm5vaXMiLCAib2JqZXQiOiAiTG9jYXRpb24gZXQgZW50cmV0aWVuIGRlIHbDqnRlbWVudHMgZGUgdHJhdmFpbCBldCBkZSBsaW5nZSBwb3VyIGxlcyBzZXJ2aWNlcyBkZSBsYSBWaWxsZSBkZSBTYW5ub2lzIiwgImRhdGVsaW1pdGUiOiAiMjAyNi0wOC0xNyIsICJsb3RzIjogW3sibG90IjogMSwgImRlc2lnbmF0aW9uIjogIkxvY2F0aW9uIGV0IGVudHJldGllbiBkZSB2w6p0ZW1lbnRzIGRlIHRyYXZhaWwgZXQgZGUgbGluZ2UgcG91ciBsZXMgc2VydmljZXMgZGUgbGEgVmlsbGUgZGUiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfV19"
   },
   {
-   "id": "OPE-2607-W",
+   "id": "OPE-2607-X",
    "label": "Consultation - edition periodique",
    "categorie": "Edition",
    "region": "France",
