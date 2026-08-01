@@ -1,6 +1,6 @@
 {
- "maj": "2026-07-31T19:10:16.179772Z",
- "count": 59,
+ "maj": "2026-08-01T02:00:01.724370Z",
+ "count": 58,
  "opportunites": [
   {
    "id": "OPE-2606-A",
@@ -581,16 +581,6 @@
    "nb_lots": 1,
    "source_lots": "generique",
    "payload": "eyJyZWYiOiAiMjYtNzI2NDciLCAiYWNoZXRldXIiOiAiQ2VudHJlIEhvc3BpdGFsaWVyIFVuaXZlcnNpdGFpcmUgZGUgTmljZSAtIEjDtHBpdGFsIGRlIENpbWlleiAtIMOJdGFibGlzc2VtZW50IHN1cHBvcnQgZHUgR0hUMDYiLCAib2JqZXQiOiAiRk9VUk5JVFVSRVMgROKAmUVMRU1FTlRTIERFIFNJR05BTEVUSVFVRSIsICJkYXRlbGltaXRlIjogIjIwMjYtMDgtMjQiLCAibG90cyI6IFt7ImxvdCI6IDEsICJkZXNpZ25hdGlvbiI6ICJGT1VSTklUVVJFUyBE4oCZRUxFTUVOVFMgREUgU0lHTkFMRVRJUVVFIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH1dfQ"
-  },
-  {
-   "id": "OPE-2606-G",
-   "label": "Consultation - objets & textiles personnalises",
-   "categorie": "Objets & textiles",
-   "region": "France",
-   "echeance": "2026-08-25",
-   "nb_lots": 1,
-   "source_lots": "detail",
-   "payload": "eyJyZWYiOiAiMjYtNjI1OTkiLCAiYWNoZXRldXIiOiAiRMOpcGFydGVtZW50IGR1IEZpbmlzdMOocmUiLCAib2JqZXQiOiAiRm91cm5pdHVyZXMgZGUgY2FydGVzIGNhZGVhdXggbWFnbsOpdGlxdWVzIHBvdXIgbGUgRMOpcGFydGVtZW50IGR1IEZpbmlzdMOocmUiLCAiZGF0ZWxpbWl0ZSI6ICIyMDI2LTA4LTI1IiwgImxvdHMiOiBbeyJsb3QiOiAxLCAiZGVzaWduYXRpb24iOiAiRm91cm5pdHVyZXMgZGUgY2FydGVzIGNhZGVhdXggbWFnbsOpdGlxdWVzIHBvdXIgbGUgRMOpcGFydGVtZW50IGR1IEZpbmlzdMOocmUiLCAiZm9ybWF0IjogIjEweDE1IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfV19"
   }
  ]
 }
