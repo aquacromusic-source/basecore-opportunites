@@ -1,6 +1,6 @@
 {
- "maj": "2026-08-17T12:24:42.812710Z",
- "count": 56,
+ "maj": "2026-08-17T18:24:33.930772Z",
+ "count": 58,
  "opportunites": [
   {
    "id": "OPE-2607-A",
@@ -561,6 +561,26 @@
    "nb_lots": 1,
    "source_lots": "detail",
    "payload": "eyJyZWYiOiAiMjYtNjg5ODQiLCAiYWNoZXRldXIiOiAiVmlsbGUgZGUgU2FyY2VsbGVzIiwgIm9iamV0IjogIlByZXN0YXRpb25zIGQnaW1wcmVzc2lvbiBkZSBkb2N1bWVudHMgbXVuaWNpcGF1eCIsICJkYXRlbGltaXRlIjogIjIwMjYtMDktMDQiLCAibG90cyI6IFt7ImxvdCI6IDEsICJkZXNpZ25hdGlvbiI6ICJUUkFWQVVYIEQnSU1QUkVTU0lPTiBQT1VSIEwnRU5TRU1CTEUgREVTIFNFUlZJQ0VTIERFIExBIFZJTExFIEVUIENDQVMiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfV19"
+  },
+  {
+   "id": "OPE-2607-E",
+   "label": "Consultation - objets & textiles personnalises",
+   "categorie": "Objets & textiles",
+   "region": "France",
+   "echeance": "2026-09-04",
+   "nb_lots": 1,
+   "source_lots": "generique",
+   "payload": "eyJyZWYiOiAiMjYtNzQwNzEiLCAiYWNoZXRldXIiOiAiQ29tbXVuZSBkZSBTYWludCBBbmRyZS1MZXotTGlsbGUiLCAib2JqZXQiOiAiRm91cm5pdHVyZSBkZSBjYXJ0ZXMgZXQgZGUgY2jDqHF1ZXMtY2FkZWF1eCIsICJkYXRlbGltaXRlIjogIjIwMjYtMDktMDQiLCAibG90cyI6IFt7ImxvdCI6IDEsICJkZXNpZ25hdGlvbiI6ICJGb3Vybml0dXJlIGRlIGNhcnRlcyBldCBkZSBjaMOocXVlcy1jYWRlYXV4IiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH1dfQ"
+  },
+  {
+   "id": "OPE-2607-F",
+   "label": "Consultation - supports de communication",
+   "categorie": "Communication",
+   "region": "France",
+   "echeance": "2026-09-04",
+   "nb_lots": 1,
+   "source_lots": "generique",
+   "payload": "eyJyZWYiOiAiMjYtNzUwMzYiLCAiYWNoZXRldXIiOiAiQ29tbXVuZSBkZSBDaGVyYm91cmctZW4tQ290ZW50aW4iLCAib2JqZXQiOiAiQWNxdWlzaXRpb24gZCd1biB0aGVybW8gcmVsaWV1ciBwb3VyIGwnaW1wcmltZXJpZSBtdW5pY2lwYWxlIiwgImRhdGVsaW1pdGUiOiAiMjAyNi0wOS0wNCIsICJsb3RzIjogW3sibG90IjogMSwgImRlc2lnbmF0aW9uIjogIkFjcXVpc2l0aW9uIGQndW4gdGhlcm1vIHJlbGlldXIgcG91ciBsJ2ltcHJpbWVyaWUgbXVuaWNpcGFsZSIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9XX0"
   }
  ]
 }
