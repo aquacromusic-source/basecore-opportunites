@@ -1,6 +1,6 @@
 {
- "maj": "2026-09-15T15:56:44.656572Z",
- "count": 52,
+ "maj": "2026-09-15T20:40:43.393600Z",
+ "count": 54,
  "opportunites": [
   {
    "id": "OPE-2609-A",
@@ -521,6 +521,26 @@
    "nb_lots": 2,
    "source_lots": "detail",
    "payload": "eyJyZWYiOiAiMjYtODE1OTYiLCAiYWNoZXRldXIiOiAiTUFJUklFIERFIFZJTExFTkVVVkUtU0FJTlQtR0VPUkdFUyIsICJvYmpldCI6ICJJTVBSRVNTSU9OIERFIERPQ1VNRU5UUyBESVZFUlMiLCAiZGF0ZWxpbWl0ZSI6ICIyMDI2LTA5LTI1IiwgImxvdHMiOiBbeyJsb3QiOiAxLCAiZGVzaWduYXRpb24iOiAiSU1QUkVTU0lPTiBERSBET0NVTUVOVFMgRElWRVJTIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH0sIHsibG90IjogMiwgImRlc2lnbmF0aW9uIjogIkltcHJlc3Npb24gZG9jdW1lbnRzIGRpdmVycyIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9XX0"
+  },
+  {
+   "id": "OPE-2608-A",
+   "label": "Consultation - supports de communication",
+   "categorie": "Communication",
+   "region": "France",
+   "echeance": "2026-09-25",
+   "nb_lots": 1,
+   "source_lots": "generique",
+   "payload": "eyJyZWYiOiAiMjYtODI1NzMiLCAiYWNoZXRldXIiOiAiTWFpcmllIEFuZGVybm9zLWxlcy1CYWlucyIsICJvYmpldCI6ICJDT05DRVBUSU9OIEVUIElNUFJFU1NJT04gREVTIEVESVRJT05TIFRPVVJJU1RJUVVFUyIsICJkYXRlbGltaXRlIjogIjIwMjYtMDktMjUiLCAibG90cyI6IFt7ImxvdCI6IDEsICJkZXNpZ25hdGlvbiI6ICJDT05DRVBUSU9OIEVUIElNUFJFU1NJT04gREVTIEVESVRJT05TIFRPVVJJU1RJUVVFUyIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9XX0"
+  },
+  {
+   "id": "OPE-2608-B",
+   "label": "Consultation - supports de communication",
+   "categorie": "Communication",
+   "region": "France",
+   "echeance": "2026-09-25",
+   "nb_lots": 1,
+   "source_lots": "generique",
+   "payload": "eyJyZWYiOiAiMjYtNzc4NjAiLCAiYWNoZXRldXIiOiAiUsOpZ2llIEVhdSBkJ0F6dXIgKDA2KSIsICJvYmpldCI6ICJGYWJyaWNhdGlvbiwgcG9zZSBldCBkw6lwb3NlIGRlIG1hdMOpcmllbCBkaXZlcnMgZGUgc2lnbmFsw6l0aXF1ZSIsICJkYXRlbGltaXRlIjogIjIwMjYtMDktMjUiLCAibG90cyI6IFt7ImxvdCI6IDEsICJkZXNpZ25hdGlvbiI6ICJGYWJyaWNhdGlvbiwgcG9zZSBldCBkw6lwb3NlIGRlIG1hdMOpcmllbCBkaXZlcnMgZGUgc2lnbmFsw6l0aXF1ZSIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9XX0"
   }
  ]
 }
