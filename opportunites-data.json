@@ -1,6 +1,6 @@
 {
- "maj": "2026-09-22T10:38:19.485641Z",
- "count": 57,
+ "maj": "2026-09-22T15:58:56.533996Z",
+ "count": 59,
  "opportunites": [
   {
    "id": "OPE-2607-A",
@@ -571,6 +571,26 @@
    "nb_lots": 1,
    "source_lots": "generique",
    "payload": "eyJyZWYiOiAiMjYtODkwMTUiLCAiYWNoZXRldXIiOiAiTWFpcmllIGRlIEJyaXZlIiwgIm9iamV0IjogIlPDqWN1cml0ZSBldCBwcm90ZWN0aW9uIGRlIGxhIHNhbnRlIChTUFMpIC0gUE9MRSBFTlNFSUdORU1FTlQgQlJVTkUiLCAiZGF0ZWxpbWl0ZSI6ICIyMDI2LTEwLTAxIiwgImxvdHMiOiBbeyJsb3QiOiAxLCAiZGVzaWduYXRpb24iOiAiU8OpY3VyaXRlIGV0IHByb3RlY3Rpb24gZGUgbGEgc2FudGUgKFNQUykgLSBQT0xFIEVOU0VJR05FTUVOVCBCUlVORSIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9XX0"
+  },
+  {
+   "id": "OPE-2608-F",
+   "label": "Consultation - objets & textiles personnalises",
+   "categorie": "Objets & textiles",
+   "region": "France",
+   "echeance": "2026-10-02",
+   "nb_lots": 1,
+   "source_lots": "detail",
+   "payload": "eyJyZWYiOiAiMjYtNzk3OTIiLCAiYWNoZXRldXIiOiAiVmlsbGUgZGUgR3Jhc3NlICgwNikiLCAib2JqZXQiOiAiQUNRVUlTSVRJT04gREUgVkVURU1FTlRTIERFIFRSQVZBSUwsIENIQVVTU1VSRVMgREUgU0VDVVJJVEUgRVQgROKAmUVRVUlQRU1FTlRTIERFIFBST1RFQ1RJT04gSU5ESVZJRFVFTExFIOKAkyBSRUxBTkNFIExPVCA3IEVRVUlQRU1FTlRTIERFIFBST1RFQ1RJT04gSU5ESVZJRFVFTExFIiwgImRhdGVsaW1pdGUiOiAiMjAyNi0xMC0wMiIsICJsb3RzIjogW3sibG90IjogMSwgImRlc2lnbmF0aW9uIjogIkVRVUlQRU1FTlRTIERFIFBST1RFQ1RJT04gSU5ESVZJRFVFTExFIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH1dfQ"
+  },
+  {
+   "id": "OPE-2609-G",
+   "label": "Consultation - supports de communication",
+   "categorie": "Communication",
+   "region": "France",
+   "echeance": "2026-10-02",
+   "nb_lots": 3,
+   "source_lots": "detail",
+   "payload": "eyJyZWYiOiAiMjYtODUwMDEiLCAiYWNoZXRldXIiOiAiVmlsbGUgZGUgTW9ybGFpeCIsICJvYmpldCI6ICJSw6lkYWN0aW9uLCBjb25jZXB0aW9uLCBpbXByZXNzaW9uIGV0IGRpZmZ1c2lvbiBkdSBNb3JsYWl4IE1hZyIsICJkYXRlbGltaXRlIjogIjIwMjYtMTAtMDIiLCAibG90cyI6IFt7ImxvdCI6IDEsICJkZXNpZ25hdGlvbiI6ICJDb25jZXB0aW9uLCByw6lkYWN0aW9uIGV0IG1pc2UgZW4gcGFnZSBkdSBNb3JsYWl4IE1hZyIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9LCB7ImxvdCI6IDIsICJkZXNpZ25hdGlvbiI6ICJJbXByZXNzaW9uIGR1IE1vcmxhaXggTWFnIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH0sIHsibG90IjogMywgImRlc2lnbmF0aW9uIjogIkRpZmZ1c2lvbiBkdSBNb3JsYWl4IE1hZyBldCBhdXRyZXMgcHVibGljYXRpb25zIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH1dfQ"
   }
  ]
 }
