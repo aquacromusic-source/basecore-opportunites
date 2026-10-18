@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-18T02:16:39.825173Z",
- "count": 49,
+ "maj": "2026-10-18T10:07:46.457863Z",
+ "count": 50,
  "opportunites": [
   {
    "id": "OPE-2609-A",
@@ -491,6 +491,16 @@
    "nb_lots": 1,
    "source_lots": "generique",
    "payload": "eyJyZWYiOiAiMjYtOTM5MTUiLCAiYWNoZXRldXIiOiAiQ0EgRXRhbXBvaXMgU3VkIEVzc29ubmUiLCAib2JqZXQiOiAiQWNxdWlzaXRpb24gcHJvZ3Jlc3NpdmUgZGUgcGlhbm9zIGFjb3VzdGlxdWVzIGRlc3RpbsOpcyBhdSBww7RsZSBkZXMgZW5zZWlnbmVtZW50cyBhcnRpc3RpcXVlcyBkdSBDb25zZXJ2YXRvaXJlIGRlIG11c2lxdWUgZGUgbGEgQ29tbXVuYXV0w6kgZCdBZ2dsb23DqXJhdGlvbiBkZSBsJ8OJdGFtcG9pcyBTdWQtRXNzb25uZSIsICJkYXRlbGltaXRlIjogIjIwMjYtMTAtMjgiLCAibG90cyI6IFt7ImxvdCI6IDEsICJkZXNpZ25hdGlvbiI6ICJBY3F1aXNpdGlvbiBwcm9ncmVzc2l2ZSBkZSBwaWFub3MgYWNvdXN0aXF1ZXMgZGVzdGluw6lzIGF1IHDDtGxlIGRlcyBlbnNlaWduZW1lbnRzIGFydGlzdGlxdSIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9XX0"
+  },
+  {
+   "id": "OPE-2610-X",
+   "label": "Consultation - objets & textiles personnalises",
+   "categorie": "Objets & textiles",
+   "region": "France",
+   "echeance": "2026-10-28",
+   "nb_lots": 2,
+   "source_lots": "detail",
+   "payload": "eyJyZWYiOiAiMjYtMTAwNjMyIiwgImFjaGV0ZXVyIjogIlZpbGxlIGRlIEx5b24iLCAib2JqZXQiOiAiUHLDqXBhcmF0aW9uLCBsb2NhdGlvbiwgZW50cmV0aWVuIGV0IGJsYW5jaGlzc2FnZSBkdSBsaW5nZSBwbGF0IGV0IGRlcyB2w6p0ZW1lbnRzIGRlIHRyYXZhaWwgcG91ciBsZXMgc2VydmljZXMgZGUgbGEgdmlsbGUgZGUgTHlvbiIsICJkYXRlbGltaXRlIjogIjIwMjYtMTAtMjgiLCAibG90cyI6IFt7ImxvdCI6IDEsICJkZXNpZ25hdGlvbiI6ICJMb2NhdGlvbiwgZW50cmV0aWVuIGV0IGJsYW5jaGlzc2FnZSBkdSBsaW5nZSBwbGF0IGV0IGRlcyB2w6p0ZW1lbnRzIGRlIHRyYXZhaWwgcG91ciBsZXMgc2VyIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH0sIHsibG90IjogMiwgImRlc2lnbmF0aW9uIjogIkZvdXJuaXR1cmUgZGUgY2FydGVzIGFjY3LDqWRpdGl2ZXMgcG91ciBkZXMgcHJlc3RhdGlvbnMgZGUgcHJlc3NpbmcgZGVzIHbDqnRlbWVudHMgZGUgdHJhdmFpIiwgImZvcm1hdCI6ICIxMHgxNSIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH1dfQ"
   }
  ]
 }
