@@ -1,6 +1,6 @@
 {
- "maj": "2026-10-28T22:01:37.882035Z",
- "count": 55,
+ "maj": "2026-10-29T03:38:27.785325Z",
+ "count": 56,
  "opportunites": [
   {
    "id": "OPE-2609-A",
@@ -551,6 +551,16 @@
    "nb_lots": 1,
    "source_lots": "detail",
    "payload": "eyJyZWYiOiAiMjYtOTYwMjUiLCAiYWNoZXRldXIiOiAiQUdFTkNFIERFIEzigJlFQVUgQVJUT0lTIC0gUElDQVJESUUiLCAib2JqZXQiOiAiRm91cm5pdHVyZSBk4oCZdW5lIHNvbHV0aW9uIGV4dGVybmFsaXPDqWUgZOKAmWVudm9pIGRlIGRvY3VtZW50cyBlbiBtYXNzZSAoaW1wcmVzc2lvbiwgbWlzZSBzb3VzIHBsaSwgYWZmcmFuY2hpc3NlbWVudCwgZXQgcmVtaXNlIMOgIHVuIGRpc3RyaWJ1dGV1ciksIGTigJlhcmNoaXZhZ2UsIGV0IGRlIHN1aXZpIGRlcyBlbnZvaXMgdmlhIHVuIHBvcnRhaWwgd2ViIiwgImRhdGVsaW1pdGUiOiAiMjAyNi0xMS0wNiIsICJsb3RzIjogW3sibG90IjogMSwgImRlc2lnbmF0aW9uIjogIkZvdXJuaXR1cmUgZOKAmXVuZSBzb2x1dGlvbiBleHRlcm5hbGlzw6llIGTigJllbnZvaSBkZSBkb2N1bWVudHMgZW4gbWFzc2UgKGltcHJlc3Npb24sIG1pc2Ugc291IiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH1dfQ"
+  },
+  {
+   "id": "OPE-2610-D",
+   "label": "Consultation - supports de communication",
+   "categorie": "Communication",
+   "region": "France",
+   "echeance": "2026-11-06",
+   "nb_lots": 1,
+   "source_lots": "generique",
+   "payload": "eyJyZWYiOiAiMjYtOTU3MzIiLCAiYWNoZXRldXIiOiAiVklDSFkgREVTVElOQVRJT05TIiwgIm9iamV0IjogIk1BUkNIRSBE4oCZSU1QUkVTU0lPTiBFVCBERSBGQcOHT05OQUdFIDIwMjciLCAiZGF0ZWxpbWl0ZSI6ICIyMDI2LTExLTA2IiwgImxvdHMiOiBbeyJsb3QiOiAxLCAiZGVzaWduYXRpb24iOiAiTUFSQ0hFIETigJlJTVBSRVNTSU9OIEVUIERFIEZBw4dPTk5BR0UgMjAyNyIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9XX0"
   }
  ]
 }
