@@ -1,6 +1,6 @@
 {
- "maj": "2026-11-18T23:43:17.883491Z",
- "count": 58,
+ "maj": "2026-11-19T05:11:40.304571Z",
+ "count": 59,
  "opportunites": [
   {
    "id": "OPE-2610-A",
@@ -534,6 +534,16 @@
   },
   {
    "id": "OPE-2611-B",
+   "label": "Consultation - signaletique & affichage",
+   "categorie": "Signaletique",
+   "region": "France",
+   "echeance": "2026-11-27",
+   "nb_lots": 19,
+   "source_lots": "detail",
+   "payload": "eyJyZWYiOiAiMjYtMTExNzc4IiwgImFjaGV0ZXVyIjogIlNQTCBBUkFDIE9DQ0lUQU5JRSIsICJvYmpldCI6ICJUcmF2YXV4IHBvdXIgbGEgY3LDqWF0aW9uIGRlIGZpbGnDqHJlcyBkJ2Vuc2VpZ25lbWVudCBnw6luw6lyYWwgYXUgTHljw6llIENsw6ltZW50IGRlIFDDqW1pbGxlIMOgIEdyYXVsaGV0ICg4MSkgIC0gT3DDqXJhdGlvbiBuwrAgNTAyOTYiLCAiZGF0ZWxpbWl0ZSI6ICIyMDI2LTExLTI3IiwgImxvdHMiOiBbeyJsb3QiOiAxLCAiZGVzaWduYXRpb24iOiAiVm9pcmllcyBldCByw6lzZWF1eCBkaXZlcnMiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfSwgeyJsb3QiOiAyLCAiZGVzaWduYXRpb24iOiAiRXNwYWNlIHZlcnQiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfSwgeyJsb3QiOiAzLCAiZGVzaWduYXRpb24iOiAiRMOpbW9saXRpb24gLSBEw6lzYW1pYW50YWdlIC0gVHJhaXRlbWVudCBkdSBwbG9tYiIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9LCB7ImxvdCI6IDQsICJkZXNpZ25hdGlvbiI6ICJHcm9zIG9ldXZyZSAtIENoYXJwZW50ZSBib2lzIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH0sIHsibG90IjogNSwgImRlc2lnbmF0aW9uIjogIkNoYXJwZW50ZSBtw6l0YWxsaXF1ZSAtIGNvdXZlcnR1cmUgLSBiYXJkYWdlIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH0sIHsibG90IjogNiwgImRlc2lnbmF0aW9uIjogIkVuZHVpdHMgLSBwbGFxdWV0dGUgdGVycmUgY3VpdGUiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfSwgeyJsb3QiOiA3LCAiZGVzaWduYXRpb24iOiAiRXRhbmNow6lpdMOpIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH0sIHsibG90IjogOCwgImRlc2lnbmF0aW9uIjogIk1lbnVpc2VyaWVzIGV4dMOpcmlldXJlcyBhbHUiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfSwgeyJsb3QiOiA5LCAiZGVzaWduYXRpb24iOiAiU2VycnVyZXJpZSIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9LCB7ImxvdCI6IDEwLCAiZGVzaWduYXRpb24iOiAiTWVudWlzZXJpZXMgaW50w6lyaWV1cmVzIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH0sIHsibG90IjogMTEsICJkZXNpZ25hdGlvbiI6ICJQbMOidHJlcmllIC0gRmF1eC1QbGFmb25kIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH0sIHsibG90IjogMTIsICJkZXNpZ25hdGlvbiI6ICJDYXJyZWxhZ2UgLSBGYcOvZW5jZSIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9LCB7ImxvdCI6IDEzLCAiZGVzaWduYXRpb24iOiAiU29scyBzb3VwbGVzIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH0sIHsibG90IjogMTQsICJkZXNpZ25hdGlvbiI6ICJSw6lzaW5lIGRlIHNvbCIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9LCB7ImxvdCI6IDE1LCAiZGVzaWduYXRpb24iOiAiUGVpbnR1cmUiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfSwgeyJsb3QiOiAxNiwgImRlc2lnbmF0aW9uIjogIkNGTy9DRkEgLSBQaG90b3ZvbHRhw69xdWVzIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH0sIHsibG90IjogMTcsICJkZXNpZ25hdGlvbiI6ICJDaGF1ZmZhZ2UsIHZlbnRpbGF0aW9uIC0gQ1ZDIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH0sIHsibG90IjogMTgsICJkZXNpZ25hdGlvbiI6ICJDdWlzaW5lIMOpcXVpcGVtZW50IiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH0sIHsibG90IjogMTksICJkZXNpZ25hdGlvbiI6ICJDdWlzaW5lIHBhbm5lYXV4IGlzb3RoZXJtZXMiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfV19"
+  },
+  {
+   "id": "OPE-2611-C",
    "label": "Consultation - supports de communication",
    "categorie": "Communication",
    "region": "France",
@@ -543,7 +553,7 @@
    "payload": "eyJyZWYiOiAiMjYtMTA2NDk1IiwgImFjaGV0ZXVyIjogIk1haXJpZSBkZSBDYXN0ZWxzYXJyYXNpbiIsICJvYmpldCI6ICJJbXByZXNzaW9uIGV0IGxpdnJhaXNvbiBkZSBzdXBwb3J0cyBkJ2luZm9ybWF0aW9uIG11bmljaXBhbGUgcG91ciBsYSBjb21tdW5lIGRlIENhc3RlbHNhcnJhc2luIiwgImRhdGVsaW1pdGUiOiAiMjAyNi0xMS0yNyIsICJsb3RzIjogW3sibG90IjogMSwgImRlc2lnbmF0aW9uIjogIkltcHJlc3Npb24gZXQgbGl2cmFpc29uIGRlIHN1cHBvcnRzIGQnaW5mb3JtYXRpb24gbXVuaWNpcGFsZSBwb3VyIGxhIGNvbW11bmUgZGUgQ2FzdGVsc2FyciIsICJmb3JtYXQiOiAiQTQiLCAiZ3JhbW1hZ2UiOiAxMzUsICJwYWdlcyI6IDEsICJxdWFudGl0ZSI6IDEwMDB9XX0"
   },
   {
-   "id": "OPE-2610-C",
+   "id": "OPE-2610-D",
    "label": "Consultation - supports de communication",
    "categorie": "Communication",
    "region": "France",
@@ -553,7 +563,7 @@
    "payload": "eyJyZWYiOiAiMjYtOTcyNDEiLCAiYWNoZXRldXIiOiAiQ2Fpc3NlIG5hdGlvbmFsZSBhc3N1cmFuY2UgbWFsYWRpZSBERFNJIiwgIm9iamV0IjogIlJlbm91dmVsbGVtZW50IGRlIGxhIHNvbHV0aW9uIGQnaW1wcmVzc2lvbiBpbmR1c3RyaWVsbGUgZGUgbGEgQ25hbSIsICJkYXRlbGltaXRlIjogIjIwMjYtMTEtMjciLCAibG90cyI6IFt7ImxvdCI6IDEsICJkZXNpZ25hdGlvbiI6ICJSZW5vdXZlbGxlbWVudCBkZSBs4oCZZW5zZW1ibGUgZGVzIGltcHJpbWFudGVzIGluZHVzdHJpZWxsZXMgw6lkaXRpcXVlIGRlIGxhIENuYW0gZXQgc2VzIHByZXMiLCAiZm9ybWF0IjogIkE0IiwgImdyYW1tYWdlIjogMTM1LCAicGFnZXMiOiAxLCAicXVhbnRpdGUiOiAxMDAwfV19"
   },
   {
-   "id": "OPE-2611-D",
+   "id": "OPE-2611-E",
    "label": "Consultation - supports de communication",
    "categorie": "Communication",
    "region": "France",
@@ -563,7 +573,7 @@
    "payload": "eyJyZWYiOiAiMjYtMTA4NDI2IiwgImFjaGV0ZXVyIjogIkNvbW11bmUgZGUgR3JpZ255IiwgIm9iamV0IjogIlByZXN0YXRpb25zIGQnaW1wcmVzc2lvbiBkZXMgZGlmZsOpcmVudHMgc3VwcG9ydHMgZGUgY29tbXVuaWNhdGlvbiBkZSBsYSBWaWxsZSBkZSBHcmlnbnktc3VyLVJow7RuZSIsICJkYXRlbGltaXRlIjogIjIwMjYtMTEtMjciLCAibG90cyI6IFt7ImxvdCI6IDEsICJkZXNpZ25hdGlvbiI6ICJQcmVzdGF0aW9ucyBkJ2ltcHJlc3Npb24gZGVzIGRpZmbDqXJlbnRzIHN1cHBvcnRzIGRlIGNvbW11bmljYXRpb24gZGUgbGEgVmlsbGUgZGUgR3JpZ255LXN1IiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH1dfQ"
   },
   {
-   "id": "OPE-2610-E",
+   "id": "OPE-2610-F",
    "label": "Consultation - supports de communication",
    "categorie": "Communication",
    "region": "France",
@@ -573,7 +583,7 @@
    "payload": "eyJyZWYiOiAiMjYtMTA0MTQ3IiwgImFjaGV0ZXVyIjogIkVQQ0MgTWV0eiBlbiBzY8OobmVzIiwgIm9iamV0IjogIklNUFJFU1NJT04gREUgRE9DVU1FTlRTIERJVkVSUyBERSBDT01NVU5JQ0FUSU9OIiwgImRhdGVsaW1pdGUiOiAiMjAyNi0xMS0yNyIsICJsb3RzIjogW3sibG90IjogMSwgImRlc2lnbmF0aW9uIjogIklNUFJFU1NJT04gREUgRE9DVU1FTlRTIERJVkVSUyBERSBDT01NVU5JQ0FUSU9OIiwgImZvcm1hdCI6ICJBNCIsICJncmFtbWFnZSI6IDEzNSwgInBhZ2VzIjogMSwgInF1YW50aXRlIjogMTAwMH1dfQ"
   },
   {
-   "id": "OPE-2610-F",
+   "id": "OPE-2610-G",
    "label": "Consultation - objets & textiles personnalises",
    "categorie": "Objets & textiles",
    "region": "France",
